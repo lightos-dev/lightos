@@ -1,2 +1,2 @@
 # lightos
-An OS, built by lightos-dev. A peaceful background, windows9x-like OS. Nostalgia and hobby OS.
+An OS, built by Xaef BTL. A peaceful background, windows9x-like OS. Nostalgia and hobby OS.
