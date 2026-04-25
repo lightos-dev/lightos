@@ -1,0 +1,3 @@
+Did you know...
+
+if you switch keyboard layout to turkish, lightos will be turkish..
